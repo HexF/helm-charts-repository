@@ -1,7 +1,8 @@
 [
   {
     "repository": "hexf/basic-helm-chart",
-    "name": "Basic Helm Chart"
+    "name": "Basic Helm Chart",
+    "shield": "[![Build Status](https://hexf.visualstudio.com/Helm%20Charts/_apis/build/status/HexF.basic-helm-chart?branchName=master)](https://hexf.visualstudio.com/Helm%20Charts/_build/latest?definitionId=3&branchName=master)"
   }
 ]
 
