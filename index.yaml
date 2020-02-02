@@ -3,7 +3,7 @@ entries:
   basic-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-02T09:42:54.962247164Z"
+    created: "2020-02-02T09:47:47.73535129Z"
     description: A Template helm chart - Does not deploy!
     digest: cc4e7c2142922990bcb4481b876d8ca0725dc5d19a5f3e4d96658952084dd030
     name: basic-helm-chart
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://github.com/HexF/basic-helm-chart/releases/download/release-0.1.0/basic-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-02T09:42:54.961864165Z"
+generated: "2020-02-02T09:47:47.734781476Z"
